@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Exact Optimization of Continuous Galvanizing Line Coil Sequencing with HiGHS"
+message: "If you use this code, please cite this repository and the original CGL dataset."
+type: software
+authors:
+  - family-names: Damarla
+    given-names: Seshu Kumar
+year: 2026
+license: MIT
+references:
+  - type: dataset
+    title: "Problem instances of the sequencing problem of a steel continuous galvanizing line"
+    authors:
+      - family-names: Álvarez-Gil
+        given-names: Nicolás
+    year: 2021
+    doi: "10.17632/v357z2ncbh.2"

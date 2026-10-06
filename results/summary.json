@@ -1,0 +1,18 @@
+{
+  "instances": 30,
+  "proven_optimal": 30,
+  "valid_sequences": 30,
+  "max_mip_gap": 0.0,
+  "total_runtime_sec": 23934.273498699913,
+  "total_runtime_hours": 6.64840930519442,
+  "mean_runtime_sec": 797.8091166233304,
+  "median_runtime_sec": 4.39901129998907,
+  "fastest_instance": "cgl_17",
+  "fastest_runtime_sec": 0.0686579000030178,
+  "slowest_instance": "cgl_114",
+  "slowest_runtime_sec": 19427.293672400003,
+  "total_cut_iterations": 1171,
+  "total_sec_cuts": 6571,
+  "same_as_reported_path_bridging_best": 29,
+  "improved_over_reported_path_bridging_best": 1
+}
